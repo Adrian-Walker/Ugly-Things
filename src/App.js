@@ -16,7 +16,7 @@ function App() {
       </div>
 
       {/* Images */}
-      <div>
+      <div className="images">
         <ul>
           <li><img src="" alt="" /></li>
           <li><img src="" alt="" /></li>
