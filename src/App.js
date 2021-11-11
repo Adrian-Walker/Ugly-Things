@@ -12,7 +12,10 @@ function App() {
           <li><input placeholder="Img URL"></input></li>
           <li><input placeholder="Description"></input></li>
         </ul>
-        <button className="submit">Submit</button>
+        <div className='buttonDiv'>
+          <button className="submit">Submit</button>
+        </div>
+
       </div>
 
       {/* Images */}
