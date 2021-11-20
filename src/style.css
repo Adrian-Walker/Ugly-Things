@@ -1,3 +1,6 @@
+.app {
+  padding: 100px;
+}
 .inputs{
   /* float: right; */
   display: inline;
@@ -34,4 +37,20 @@ img{
 
 ol{
   width: 50% ;
+}
+
+.thing-container {
+  border: 1px solid #F00;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+.thing-container img {
+  width: 80%;
+  height: auto;
+}
+.thing-container .thing-footer {
+  display: flex;
+  justify-content: flex-end;
 }
