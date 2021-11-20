@@ -10,7 +10,7 @@ ul {
   /* display:inline-block; */
 }
 
-li{
+.item{
   display: inline;
   padding: 35px;
 }
@@ -30,4 +30,8 @@ button{
 
 img{
   border: 5px solid wheat;
+}
+
+ol{
+  width: 50% ;
 }
